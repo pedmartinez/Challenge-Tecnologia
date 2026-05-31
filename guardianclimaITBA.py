@@ -1,5 +1,3 @@
-# %% [markdown]
-# %%
 # -*- coding: utf-8 -*-
 """GuardianClimaITBA
 
