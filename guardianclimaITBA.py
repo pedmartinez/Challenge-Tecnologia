@@ -1,3 +1,9 @@
+# NOTA PARA EL EVALUADOR:
+# 1. Formato de entrega: Se adjunta este archivo en formato de script puro (.py) 
+#    para cumplir estrictamente con los requerimientos de la consigna.
+# 2. Ejecución recomendada: Para una visualización interactiva y óptima, se 
+#    recomienda utilizar el botón "Open in Colab" provisto en la entrega o acceder
+#    al entorno nativo del cuaderno mediante el enlace de Google Drive.
 # -*- coding: utf-8 -*-
 """GuardianClimaITBA
 
