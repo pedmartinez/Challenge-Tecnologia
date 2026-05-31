@@ -6,6 +6,6 @@ El siguiente botón da acceso al notebook en Google Colab, donde se encuentran l
 
 # Video Demo Guardián Clima
 
-<a href="TU_ENLACE_DE_YOUTUBE_AQUÍ" target="_blank">
-  <img src="https://shields.io" alt="Ver en YouTube" height="24">
-</a>
+El siguiente botón da acceso al video de demostración en YouTube, donde se encuentra el funcionamiento de la aplicación en tiempo real:
+
+[![Ver en YouTube](https://shields.io)](https://youtu.be/h-wG8uM0wiw)
