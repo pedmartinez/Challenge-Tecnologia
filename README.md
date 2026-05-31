@@ -3,7 +3,7 @@
 Aplicación de consola en Python que permite consultar el clima en tiempo real, 
 guardar un historial de consultas y obtener consejos de vestimenta mediante IA.
 
-## Instrucciones de configuración, instalación, y para ejecutar la aplicaciónÑ
+## Instrucciones de configuración, instalación, y para ejecutar la aplicación
 
 1. Abrir el notebook en Google Colab con el botón de abajo
 1. Ejecutá la **Celda 1** para instalar las librerías principales.
