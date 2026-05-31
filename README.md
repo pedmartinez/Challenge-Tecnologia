@@ -20,4 +20,4 @@ guardar un historial de consultas y obtener consejos de vestimenta mediante IA.
 
 ## Video demo
 
-[![Ver en YouTube](https://img.shields.io/badge/Ver%20en-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/h-wG8uM0wiw)
+[![Ver en Drive](https://img.shields.io/badge/Ver%20en-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fX6CGjXa1s7CPvAHPLl_Tfx_ctmnN-UI/view?usp=drive_link)
