@@ -1184,3 +1184,9 @@ if os.path.exists('historial_global.csv'):
     print('📥 historial_global.csv descargado.')
 else:
     print('⚠ historial_global.csv no existe todavía (realizá al menos una consulta de clima).')
+
+if os.path.exists('usuarios_simulados.csv'):
+    files.download('usuarios_simulados.csv')
+    print('📥 usuarios_simulados.csv descargado.')
+else:
+    print('⚠ usuarios_simulados.csv no existe todavía (registrá al menos un usuario).')
