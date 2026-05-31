@@ -241,7 +241,7 @@ def registrar_nuevo_usuario():
             print('\n❌ La contraseña no cumple con los requisitos:')
             for e in errores:
                 print(f'   - {e}')
-            print('\n Sugerencia: usá algo como "MiClima#2025" (mayúscula + número + símbolo).')
+            print('\n Sugerencia: usá algo como "Clima#2026" (mayúscula + número + símbolo).')
 
             seguir = input('¿Querés intentar con otra contraseña? (ingresá "s" para sí, cualquier otra tecla para cancelar el registro): ').lower()
             if seguir != 's':
