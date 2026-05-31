@@ -8,4 +8,4 @@ El siguiente botón da acceso al notebook en Google Colab, donde se encuentran l
 
 El siguiente botón da acceso al video de demostración en YouTube, donde se encuentra el funcionamiento de la aplicación en tiempo real:
 
-[![Ver en YouTube](https://shields.io)](https://youtu.be/h-wG8uM0wiw)
+[![Ver en YouTube](https://img.shields.io/badge/Ver%20en-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/h-wG8uM0wiw)
